@@ -1,0 +1,1 @@
+This is the Recipes application from the SoftUni exam 1.11.22 uploaded with testing purposes.
